@@ -15,14 +15,14 @@ Here are some ideas to get you started:
   <img src="https://github.com/cnosdb/cnosdb/blob/main/docs/source/_static/img/cnosdb_logo_white.svg?&style=flat-square" style="width: 70px;object-fit:contain" alt="CnosDB社区"></a>
    <img src="https://komarev.com/ghpvc/?username=yukkit" alt="10000" />
 </p>
-  
+  <!--
 <a href="https://www.zhihu.com/people/iSunface/columns">
    <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right"  width="25%" />
 </a>
 <a href="https://github.com/sunface/rust-course">
    <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right" width="25%"/>
 </a>
-
+-->
 🔫 Here are some fun facts about me:
 
 - 🔭 I’m currently working on ...
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 
-- ❤️ Rust & JS, Writing & Sharing
+- ❤️ Rust & Java & Golang, Writing & Sharing
 
 
 **Nice to meet you and best wishes for you, my friends :)**
