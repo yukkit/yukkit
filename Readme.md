@@ -23,26 +23,6 @@ Here are some ideas to get you started:
    <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right" width="25%"/>
 </a>
 -->
-🔫 Here are some fun facts about me:
-
-- 🔭 I’m currently working on ...
-
-- 🌱 I’m currently learning ...
-
-- 👯 I’m looking to collaborate on ...
-
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
-
-- ❤️ Rust & Java & Golang, Writing & Sharing
-
 
 **Nice to meet you and best wishes for you, my friends :)**
 
