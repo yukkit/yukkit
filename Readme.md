@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 🍀 I'm Yujie.Zhang(yukkit), an ordinary software engineer specializing in distributed systems and query engines.
 
-🍁 I'm helping the [CnosDB](https://github.com/cnosdb/cnosdb) team integrate DataFusion for query services.
+🍁 I'm helping the [CnosDB](https://github.com/cnosdb/cnosdb) team integrate DataFusion for query layer.
 
 🌱 I'm also an active contributor for [DataFusion](https://github.com/apache/arrow-datafusion).
 
