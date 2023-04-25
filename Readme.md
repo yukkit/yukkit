@@ -24,6 +24,18 @@ Here are some ideas to get you started:
 </a>
 -->
 
+
+🍀 I'm Yujie.Zhang(yukkit), an ordinary software engineer specializing in distributed systems and query engines.
+
+🍁 I'm helping the CnosDB team integrate DataFusion for query services.
+
+🌱 I'm also an active contributor for DataFusion.
+
+🏕️ I used to work with OLAP, but now I work with time-series. However, I prefer OLAP, haha.
+
+♥️ Rust & Java, Reading & Sharing & 🏸
+
+
 **Nice to meet you and best wishes for you, my friends :)**
 
 
