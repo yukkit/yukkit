@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 🍀 I'm Yujie.Zhang(yukkit), an ordinary software engineer specializing in distributed systems and query engines.
 
-🍁 I'm helping the [CnosDB](https://github.com/cnosdb/cnosdb) team integrate DataFusion for query layer.
-
-🌱 I'm also an active contributor for [DataFusion](https://github.com/apache/arrow-datafusion).
+🌱 I'm an active contributor for [DataFusion](https://github.com/apache/arrow-datafusion).
 
 🏕️ I used to work with OLAP, but now I work with time-series. However, I prefer OLAP, haha.
+
+🍁 I also used to help the [CnosDB](https://github.com/cnosdb/cnosdb) team integrate DataFusion for query layer.
 
 ♥️ Rust & Java, Reading & Sharing & 🏸
 
