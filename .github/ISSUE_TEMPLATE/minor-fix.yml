@@ -1,6 +1,5 @@
 name: Minor Fix
 description: Describe a minor issue related to a major feature (e.g., behavior definition for corner cases, refactor)
-labels: ''
 body:
   - type: textarea
     attributes:
