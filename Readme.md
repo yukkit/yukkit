@@ -24,18 +24,16 @@ Here are some ideas to get you started:
 -->
 
 
-🍀 I'm Yujie.Zhang(yukkit), an ordinary software engineer specializing in distributed systems and query engines.
+I'm Yujie.Zhang(yukkit), an ordinary software engineer specializing in database development, with experience in OLAP, time-series databases, and graph databases.
 
-🌱 I'm an active contributor for [DataFusion](https://github.com/apache/arrow-datafusion).
+----
+Worked at Arve, developing the OLAP engine LinkoopDB/Zettabase.
 
-🏕️ I used to work with OLAP, but now I work with time-series. However, I prefer OLAP, haha.
+Worked at CnosDB, help the [CnosDB](https://github.com/cnosdb/cnosdb) team integrate [DataFusion](https://github.com/apache/datafusion) for query layer.
 
-🍁 I also used to help the [CnosDB](https://github.com/cnosdb/cnosdb) team integrate DataFusion for query layer.
+Currently employed at a confidential company, focusing on graph database development.
 
-♥️ Rust & Java, Reading & Sharing & 🏸
-
-
-**Nice to meet you and best wishes for you, my friends :)**
+**Rust & C++ & Java**
 
 
 <h2></h2>
