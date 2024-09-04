@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 I'm Yujie.Zhang(yukkit), an ordinary software engineer specializing in database development, with experience in OLAP, time-series databases, and graph databases.
 
 ----
-Worked at Arve, developing the OLAP engine LinkoopDB/Zettabase.
+Currently employed at a confidential company, focusing on graph database development.
 
 Worked at CnosDB, help the [CnosDB](https://github.com/cnosdb/cnosdb) team integrate [DataFusion](https://github.com/apache/datafusion) for query layer.
 
-Currently employed at a confidential company, focusing on graph database development.
+Worked at Arve, developing the OLAP engine LinkoopDB/Zettabase.
 
 **Rust & C++ & Java**
 
