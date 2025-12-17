@@ -46,6 +46,7 @@ Worked at Arve, developing the OLAP engine LinkoopDB/Zettabase.
   <img style="width: 98%;object-fit:contain" style="display: inline-block;" src="https://github.com/yukkit/yukkit/blob/main/images/modb_20221122_eed6e2f8-6a55-11ed-9991-fa163eb4f6be.png">
 
   <img style="width: 66%;object-fit:contain" style="display: inline-block;" src="https://raw.githubusercontent.com/yukkit/yukkit/main/profile-summary-card-output/zenburn/0-profile-details.svg">
-
+  <!--
   <img style="width: 32%;object-fit:contain" style="display: inline-block;" src="https://raw.githubusercontent.com/yukkit/yukkit/main/profile-summary-card-output/zenburn/2-most-commit-language.svg"/>
+  -->
   </a>
